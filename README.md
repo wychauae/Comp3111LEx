@@ -3,5 +3,4 @@
 #This Lab 1 assignment readme. md
 
 #This is the screenshot for the Lab1 assignment:
-
-<img width="960" alt="2023-09-11 182822" src="https://github.com/wychauae/Comp3111LEx/assets/144663658/074673c7-da1e-44ac-b341-fd2ea0a2b6c7">
+<img width="960" alt="2023-09-11 182822" src="https://github.com/wychauae/Comp3111LEx/assets/144663658/28994e6b-8c73-450e-8e8a-62cfe96575a4">
